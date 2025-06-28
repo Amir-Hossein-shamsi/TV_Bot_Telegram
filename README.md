@@ -1,4 +1,4 @@
-# 🎬 TV Channel Telegram Bot - Enhanced README
+# 🎬 TV Channel Telegram Bot 
 
 ![Bot Demo](https://via.placeholder.com/1200x500?text=TV+Critic+Hub+Interface+Showcase)  
 *A sophisticated Telegram bot with REST API for TV critics to submit reviews, register for game shows, and manage content through Elasticsearch*
