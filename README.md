@@ -33,7 +33,7 @@ graph LR
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/tv-channel-bot.git
+git clone https://github.com/Amir-Hossein-shamsi/TV_Bot_Telegram.git
 cd tv-channel-bot
 
 # Create virtual environment
